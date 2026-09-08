@@ -1,16 +1,30 @@
-## Hi there 👋
+# Nader Abdelshahid
 
-<!--
-**nnabdelshahid/nnabdelshahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on reliable backend systems, developer tooling, and
+automation. I work primarily with Java and Spring Boot, building REST APIs and
+distributed, event-driven services with Kafka and MongoDB. My experience also
+includes CI/CD and full-stack product delivery.
 
-Here are some ideas to get you started:
+## Engineering focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend architecture, Java, and Spring Boot
+- Distributed systems and real-time payment workflows
+- REST APIs, Kafka, and MongoDB
+- CI/CD, test automation, and operational tooling
+- Full-stack implementation when a product needs end-to-end ownership
+
+## Selected work
+
+- **CenterFuse / SellFuse / BuyFuse** — a private product ecosystem spanning
+  parent-platform, seller, reseller, and buyer experiences.
+- **Novera** — private tooling for controlled coding-agent workflows.
+- **Continuum** — a private deterministic operations platform.
+- **JobAutopilot** — a private application with deployable infrastructure and
+  automated workflows.
+- [**ASL Communication Aid**](https://github.com/nnabdelshahid/asl-communication-aid)
+  — an accessibility-oriented communication project.
+
+## Portfolio
+
+Project case studies and public work are available at
+[nnabdelshahid.github.io](https://nnabdelshahid.github.io).
