@@ -1,38 +1,48 @@
 # Nader Abdelshahid
 
-**Software Engineer | Java and Spring Boot | Distributed Payments and Backend Systems**
+**Software Engineer | Java & Spring Boot | Distributed Systems, Payments & Platform Engineering**
 
 Software Engineer with 5+ years of software development experience, including
-4+ years building Java/Spring Boot backend services for FedNow and TCH RTP
-real-time payments. My work spans REST APIs, ISO 20022 processing, Kafka,
-MongoDB, CI/CD, automated validation, security remediation, and production
-troubleshooting in a regulated financial environment.
+4+ years building Java/Spring Boot backend services and distributed systems in
+regulated financial environments. Currently a Software Engineer on Wells Fargo's
+Agentic Liquidity and Deposits Platform.
 
-I also build local-first AI-agent and deployment infrastructure with Python and
-FastAPI. These projects extend the same engineering priorities I bring to
-payments systems: explicit state, secure boundaries, observable operations,
-automated testing, and recoverable change.
+Prior to that, I delivered FedNow and TCH RTP v3.0 real-time payments services
+for nearly four years — handling ISO 20022 processing, Kafka event flows, MongoDB
+persistence, and REST API development across distributed payment workflows.
+
+My work across both roles spans REST APIs, Kafka, MongoDB, CI/CD, automated
+testing, security remediation, and production validation. I also build independent
+projects focused on developer tooling, automation, AI-assisted workflows, and
+platform engineering.
 
 ## Engineering focus
 
-- Backend architecture, Java, and Spring Boot
-- Distributed systems and real-time payment workflows
+- Backend engineering — Java and Spring Boot
+- Distributed systems and platform engineering
+- Payments — FedNow, TCH RTP v3.0, ISO 20022
 - REST APIs, Kafka, and MongoDB
-- CI/CD, JUnit, automated validation, and operational troubleshooting
+- CI/CD, JUnit, automated validation, and security remediation
 - Python, FastAPI, Docker, AI agents, and LLM infrastructure
 
 ## Selected engineering projects
 
+- [**API-MongoQuery-Prompts**](https://nnabdelshahid.github.io/API-MongoQuery-Prompts/)
+  — API & Database Automation Workbench. A modular Spring Boot and React/Vite
+  developer workbench for orchestrating runtime checks, Postman/Newman API
+  execution, MongoDB validation, JUnit runs, and CI/CD quality gates. Built
+  reusable automation that reduced recurring validation time 67%, from ~30 min
+  to ~10 min.
+- [**Continuum**](https://nnabdelshahid.github.io/Continuum/) — Deterministic
+  Workflow & Orchestration Framework. A Python orchestration framework with
+  dependency/DAG execution, retries, validation gates, replay/resume, audit
+  evidence, and tamper-evident run bundles for regulated and high-stakes
+  engineering workflows. Source remains private.
 - [**GodModeAI**](https://nnabdelshahid.github.io/GodModeAI/) — a local-first
   AI coding and computer-agent environment with a Python/FastAPI backend,
   terminal and Windows desktop interfaces, local/remote inference routing,
   scoped permissions, event streaming, audit logging, persistent memory, and
   checkpoint-based rollback. Source remains private.
-- [**DeploymentPlatform**](https://nnabdelshahid.github.io/DeploymentPlatform/)
-  — a FastAPI deployment control plane with explicit lifecycle transitions,
-  encrypted secrets, provider abstraction, health-gated provisioning, usage
-  tracking, cost estimates, and approval before billable GPU deployment. Source
-  remains private while the project is in development.
 - [**ASL Communication Aid**](https://github.com/nnabdelshahid/asl-communication-aid)
   — an accessibility-oriented React prototype for browser-based hand-landmark
   recognition and communication practice, with clearly documented limitations.
