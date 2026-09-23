@@ -8,7 +8,7 @@ Software Engineer with 5+ years of software development experience and 4+ years 
 
 ## Engineering Focus
 
-Java, Spring Boot, REST APIs, distributed systems, payments, Kafka, MongoDB, testing, CI/CD, and platform engineering.
+Java, Spring Boot, REST APIs, distributed systems, payments, Kafka, MongoDB, testing, Maven, Gradle, CI/CD, and platform engineering.
 
 ## Experience
 
