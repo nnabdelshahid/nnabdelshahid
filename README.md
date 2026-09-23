@@ -2,57 +2,35 @@
 
 **Software Engineer | Java & Spring Boot | Distributed Systems, Payments & Platform Engineering**
 
-Software Engineer with 5+ years of software development experience, including
-4+ years building Java/Spring Boot backend services and distributed systems in
-regulated financial environments. Currently a Software Engineer on Wells Fargo's
-Agentic Liquidity and Deposits Platform.
+## About
 
-Prior to that, I delivered FedNow and TCH RTP v3.0 real-time payments services
-for nearly four years — handling ISO 20022 processing, Kafka event flows, MongoDB
-persistence, and REST API development across distributed payment workflows.
+Software Engineer with 5+ years of software development experience and 4+ years with Java and Spring Boot. I build backend services, developer tools, and independent software products.
 
-My work across both roles spans REST APIs, Kafka, MongoDB, CI/CD, automated
-testing, security remediation, and production validation. I also build independent
-projects focused on developer tooling, automation, AI-assisted workflows, and
-platform engineering.
+## Engineering Focus
 
-## Engineering focus
+Java, Spring Boot, REST APIs, distributed systems, payments, Kafka, MongoDB, testing, CI/CD, and platform engineering.
 
-- Backend engineering — Java and Spring Boot
-- Distributed systems and platform engineering
-- Payments — FedNow, TCH RTP v3.0, ISO 20022
-- REST APIs, Kafka, and MongoDB
-- CI/CD, JUnit, automated validation, and security remediation
-- Python, FastAPI, Docker, AI agents, and LLM infrastructure
+## Experience
 
-## Selected engineering projects
+- **Wells Fargo — Software Engineer, Agentic Liquidity and Deposits Platform** (2026–present). Internal transfer from Real-Time Payments.
+- **Wells Fargo — Software Engineer, Real-Time Payments** (August 2022–2026). FedNow, TCH RTP v3.0, ISO 20022, Java/Spring Boot, and production validation. Reusable automation reduced recurring validation from approximately 30 minutes to approximately 10 minutes (about 67%).
+- **Auctivon — Founder & CEO** (2019–present). Independent software and product development.
 
-- [**API-MongoQuery-Prompts**](https://nnabdelshahid.github.io/API-MongoQuery-Prompts/)
-  — API & Database Automation Workbench. A modular Spring Boot and React/Vite
-  developer workbench for orchestrating runtime checks, Postman/Newman API
-  execution, MongoDB validation, JUnit runs, and CI/CD quality gates. Built
-  reusable automation that reduced recurring validation time 67%, from ~30 min
-  to ~10 min.
-- [**Continuum**](https://nnabdelshahid.github.io/Continuum/) — Deterministic
-  Workflow & Orchestration Framework. A Python orchestration framework with
-  dependency/DAG execution, retries, validation gates, replay/resume, audit
-  evidence, and tamper-evident run bundles for regulated and high-stakes
-  engineering workflows. Source remains private.
-- [**GodModeAI**](https://nnabdelshahid.github.io/GodModeAI/) — a local-first
-  AI coding and computer-agent environment with a Python/FastAPI backend,
-  terminal and Windows desktop interfaces, local/remote inference routing,
-  scoped permissions, event streaming, audit logging, persistent memory, and
-  checkpoint-based rollback. Source remains private.
-- [**ASL Communication Aid**](https://github.com/nnabdelshahid/asl-communication-aid)
-  — an accessibility-oriented React prototype for browser-based hand-landmark
-  recognition and communication practice, with clearly documented limitations.
+## Selected Projects
 
-## Credentials
+- [API-MongoQuery-Prompts / Banking WorkBench](https://engineering-portfolio-auctivon.vercel.app/API-MongoQuery-Prompts/) — API and database validation workbench.
+- [Continuum](https://engineering-portfolio-auctivon.vercel.app/Continuum/) — deterministic workflow and orchestration framework.
+- [CodeIt](https://engineering-portfolio-auctivon.vercel.app/CodeIt/) — local-first AI development tooling.
 
-- MongoDB Associate Developer — MongoDB, issued August 2026
-- MongoDB Certified Associate Atlas Administrator — MongoDB, issued August 2026
+## Certifications
+
+- [MongoDB Associate Developer](https://www.credly.com/badges/e3853ca9-a9d9-4b46-8a95-3d0658c8a63f/public_url)
+- [MongoDB Certified Associate Atlas Administrator](https://www.credly.com/badges/021041d3-53b5-4a98-85c8-0a08aa141c26/public_url)
 
 ## Portfolio
 
-Project case studies and public work are available at
-[nnabdelshahid.github.io](https://nnabdelshahid.github.io).
+[https://engineering-portfolio-auctivon.vercel.app](https://engineering-portfolio-auctivon.vercel.app)
+
+## LinkedIn
+
+[linkedin.com/in/nnabdelshahid](https://www.linkedin.com/in/nnabdelshahid)
