@@ -17,7 +17,7 @@ Java, Spring Boot, REST APIs, distributed systems, FedNow, TCH RTP v3.0, ISO 200
 ## Selected Public Projects
 
 - [Banking WorkBench](https://naderdev.vercel.app/API-MongoQuery-Prompts/) — Spring Boot and React workbench for API execution, database validation, test runs, and repeatable engineering workflows.
-- [Continuum](https://naderdev.vercel.app/Continuum/) — deterministic workflow framework with validation gates, replay, evidence capture, and auditable run bundles.
+- [Continuum](https://naderdev.vercel.app/Continuum/) — instant-payments workflows spanning inbound/outbound transfers, acknowledgments, rejects, returns, and return of funds, with repeatable validation and reviewable evidence.
 - [DeploymentPlatform](https://naderdev.vercel.app/DeploymentPlatform/) — deployment platform engineering case study.
 
 ## Certifications
