@@ -34,3 +34,7 @@ Java, Spring Boot, REST APIs, distributed systems, FedNow, TCH RTP v3.0, ISO 200
 ## LinkedIn
 
 [linkedin.com/in/nnabdelshahid](https://www.linkedin.com/in/nnabdelshahid)
+
+## Live Vercel views
+
+- [nader profile info production page](https://nader-profile-info.vercel.app/)
