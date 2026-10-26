@@ -31,7 +31,6 @@ Additional independently owned products and prototypes are described in the [por
 ## Resume and Portfolio
 
 - [View the web resume](https://naderdev.vercel.app/resume/)
-- [Download the PDF resume](https://naderdev.vercel.app/resume/Nader_Abdelshahid_Resume.pdf)
 - [Portfolio](https://naderdev.vercel.app/)
 
 ## LinkedIn
