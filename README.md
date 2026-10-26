@@ -2,23 +2,27 @@
 
 **Software Engineer | Java & Spring Boot | Distributed Systems, Payments & Platform Engineering**
 
-Software Engineer with 5+ years of development experience, including 4+ years building Java and Spring Boot backend services in regulated financial services. At Wells Fargo, I transferred to the Agent Liquidity and Deposits Platform in July 2026 after working on FedNow and The Clearing House Real-Time Payments (TCH RTP). My payments experience includes ISO 20022 inbound and outbound flows, rejects, acknowledgments, returns, and return-of-funds scenarios. Reusable API and database validation automation reduced recurring checks by about 67%, from approximately 30 minutes to 10 minutes.
+Software engineer focused on Java/Spring Boot backend services, REST APIs, distributed systems, and reliable engineering workflows. My experience includes payments-domain validation, automated testing, and independently developed software products. Public descriptions are intentionally limited to nonconfidential, independently shareable information.
 
-## Experience
+## Professional Experience
 
-- **Wells Fargo — Software Engineer, Agent Liquidity and Deposits Platform** (July 2026–Present)
-- **Wells Fargo — Software Engineer, Real-Time Payments** (August 2022–July 2026). Developed and validated Java/Spring Boot payment services, resolved 50+ defects and work items, and supported release readiness across DEV, SIT, and UAT.
-- **Auctivon — Founder & CEO** (2019–Present). Founder-led software and product development.
+- **Wells Fargo — Software Engineer, Instant & Real-Time Payments** (September 2026–Present). Returned to payments after a temporary internal AI/platform engineering assignment.
+- **Wells Fargo — Software Engineer, AI/Platform Engineering (Internal Assignment)** (July–September 2026). Contributed code changes and pull requests during the temporary assignment.
+- **Wells Fargo — Engineering Associate → Software Engineer, Real-Time Payments** (August 2022–July 2026; promoted January 2026). Java/Spring Boot services, automated testing, API validation, and release readiness.
+- **Auctivon — Founder & CEO** (2019–Present). Independent company role and product development, separate from Wells Fargo employment.
 
 ## Engineering Focus
 
-Java, Spring Boot, REST APIs, distributed systems, FedNow, TCH RTP v3.0, ISO 20022, Kafka, MongoDB, Oracle/SQL, JUnit, Mockito, Postman/Newman, CI/CD, security remediation, and platform engineering.
+Java, Spring Boot, REST APIs, distributed systems, Kafka, MongoDB, SQL, JUnit, Mockito, Postman/Newman, CI/CD, API validation, and platform engineering.
 
-## Selected Public Projects
+## Selected Engineering Case Studies
 
-- [Banking WorkBench](https://naderdev.vercel.app/API-MongoQuery-Prompts/) — Spring Boot and React workbench for API execution, database validation, test runs, and repeatable engineering workflows.
-- [Continuum](https://naderdev.vercel.app/Continuum/) — instant-payments workflows spanning inbound/outbound transfers, acknowledgments, rejects, returns, and return of funds, with repeatable validation and reviewable evidence.
-- [DeploymentPlatform](https://naderdev.vercel.app/DeploymentPlatform/) — deployment platform engineering case study.
+These are **public technical case studies, not links to independently verified live product applications**. The descriptions distinguish implemented scope from in-development or unverified production capabilities.
+
+- [DeploymentPlatform](https://naderdev.vercel.app/DeploymentPlatform/) — Deployment control plane case study; a live production service is not claimed; **in development**.
+- [Continuum](https://naderdev.vercel.app/Continuum/) — Models instant-payment workflow paths, validation gates, and reviewable evidence; no live banking integration is claimed; **engineering case study**.
+
+Additional independently owned products and prototypes are described in the [portfolio](https://naderdev.vercel.app/#products) with their current maturity labels. Only a verified, source-matched, working project UI should be presented as a live app.
 
 ## Certifications
 
@@ -27,14 +31,10 @@ Java, Spring Boot, REST APIs, distributed systems, FedNow, TCH RTP v3.0, ISO 200
 
 ## Resume and Portfolio
 
-- [View the resume](https://naderdev.vercel.app/resume/)
-- [Download the current PDF resume](https://naderdev.vercel.app/resume/Nader_Abdelshahid_Resume.pdf)
+- [View the web resume](https://naderdev.vercel.app/resume/)
 - [Portfolio](https://naderdev.vercel.app/)
 
 ## LinkedIn
 
 [linkedin.com/in/nnabdelshahid](https://www.linkedin.com/in/nnabdelshahid)
 
-## Live Vercel views
-
-- [nader profile info production page](https://nader-profile-info.vercel.app/)
