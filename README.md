@@ -6,8 +6,10 @@ Software engineer focused on Java/Spring Boot backend services, REST APIs, distr
 
 ## Professional Experience
 
-- **Wells Fargo — Software Engineer** (current). Backend engineering with Java, Spring Boot, API testing, distributed systems, and payments-domain experience. This summary does not assert a current internal team assignment.
-- **Auctivon — Founder & CEO** (2019–Present). Independent software and product development.
+- **Wells Fargo — Software Engineer, Instant & Real-Time Payments** (September 2026–Present). Returned to payments after a temporary internal AI/platform engineering assignment.
+- **Wells Fargo — Software Engineer, AI/Platform Engineering (Internal Assignment)** (July–September 2026). Contributed code changes and pull requests during the temporary assignment.
+- **Wells Fargo — Engineering Associate → Software Engineer, Real-Time Payments** (August 2022–July 2026; promoted January 2026). Java/Spring Boot services, automated testing, API validation, and release readiness.
+- **Auctivon — Founder & CEO** (2019–Present). Independent company role and product development, separate from Wells Fargo employment.
 
 ## Engineering Focus
 
