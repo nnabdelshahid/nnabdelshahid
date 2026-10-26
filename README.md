@@ -19,9 +19,8 @@ Java, Spring Boot, REST APIs, distributed systems, Kafka, MongoDB, SQL, JUnit, M
 
 These are **public technical case studies, not links to independently verified live product applications**. The descriptions distinguish implemented scope from in-development or unverified production capabilities.
 
-- [DeploymentPlatform](https://naderdev.vercel.app/DeploymentPlatform/) — deployment control-plane design with lifecycle, approval, secrets, and health-gating boundaries; **in development**.
-- [Continuum](https://naderdev.vercel.app/Continuum/) — repeatable instant-payment workflow modeling, validation, and evidence; **engineering case study**, not a claimed live banking integration.
-- [CenterFuseHQ](https://naderdev.vercel.app/CenterFuse/) — shared product-family architecture for independently operated BuyFuse and SellFuse products; **architecture overview**, not a claimed finished customer SaaS.
+- [DeploymentPlatform](https://naderdev.vercel.app/DeploymentPlatform/) — Deployment control plane case study; a live production service is not claimed; **in development**.
+- [Continuum](https://naderdev.vercel.app/Continuum/) — Models instant-payment workflow paths, validation gates, and reviewable evidence; no live banking integration is claimed; **engineering case study**.
 
 Additional independently owned products and prototypes are described in the [portfolio](https://naderdev.vercel.app/#products) with their current maturity labels. Only a verified, source-matched, working project UI should be presented as a live app.
 
@@ -38,3 +37,4 @@ Additional independently owned products and prototypes are described in the [por
 ## LinkedIn
 
 [linkedin.com/in/nnabdelshahid](https://www.linkedin.com/in/nnabdelshahid)
+
