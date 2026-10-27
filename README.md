@@ -31,7 +31,7 @@ Additional independently owned products and prototypes are described in the [por
 
 ## Resume and Portfolio
 
-- [View the web resume](https://naderdev.vercel.app/resume/)
+- [Verified public-safe résumé](https://github.com/nnabdelshahid/nnabdelshahid/blob/main/RESUME_PUBLIC.md)
 - [Portfolio](https://naderdev.vercel.app/)
 
 ## LinkedIn
