@@ -4,11 +4,11 @@
 
 California, United States · [Portfolio](https://naderdev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/nnabdelshahid) · [GitHub](https://github.com/nnabdelshahid)
 
-> Public, contact-safe résumé. For applications, the separately maintained private ATS résumé is the approved source of truth. Last verified: October 27, 2026.
+> Public, contact-safe résumé. For applications, the separately maintained private ATS résumé is the approved source of truth. Last verified: November 6, 2026.
 
 ## Professional summary
 
-Software Engineer with 5+ years of development experience, including 4+ years building Java/Spring Boot backend services and distributed systems in regulated financial services. Wells Fargo employment spans August 2022 to present; promoted to Software Engineer in January 2026 and returned to Instant and Real-Time Payments in September 2026 after a short internal AI/platform assignment. Experience includes REST APIs, microservices, Kafka, ISO 20022, MongoDB, CI/CD, automated testing, and release validation. Built reusable API/database automation that cut recurring validation from approximately 30 minutes to 10 minutes.
+Software Engineer with 5+ years of development experience, including 4+ years building Java/Spring Boot backend services and distributed systems in regulated financial services. Wells Fargo employment spans August 2022 to present; returned to Instant and Real-Time Payments in September 2026 after a short internal AI/platform assignment. Experience includes REST APIs, microservices, Kafka, ISO 20022, MongoDB, CI/CD, automated testing, and release validation. Built reusable API/database automation that cut recurring validation from approximately 30 minutes to 10 minutes.
 
 ## Core technical skills
 
@@ -24,7 +24,6 @@ Software Engineer with 5+ years of development experience, including 4+ years bu
 
 **Software Engineer — Instant & Real-Time Payments**
 
-- Joined as an Engineering Associate in August 2022 and was promoted to Software Engineer in January 2026.
 - Completed a short internal AI/platform engineering assignment from July to September 2026, contributing code changes and pull requests, then returned to Instant and Real-Time Payments in September 2026.
 - Maintain Java/Spring Boot payment services, resolve defects, strengthen JUnit regression coverage, validate API and MongoDB behavior, and support UAT and release readiness.
 - Developed services and REST APIs for FedNow and TCH RTP v3.0 using ISO 20022 and Kafka; resolved 50+ defects and work items.
